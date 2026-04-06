@@ -48,7 +48,7 @@ Este projeto é uma aplicação desktop desenvolvida em **Java** que combina o g
 
 ```text
 src/
- ├── model/      # Classes de entidade (Java Beans)
- ├── dao/        # Classes de persistência e conexão com banco
- ├── controller/ # Lógica de controle e eventos
- └── view/       # Telas e componentes de interface gráfica
+ ├── cf/        # Código fonte do projeto.
+ ├── desing/    # Mockup e wireframe do projeto.
+ ├── UML/       # Driagramas de caso de uso e de classe do projeto.
+ └── MBD/       # Modelagem do banco de dados.
